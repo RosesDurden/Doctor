@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedecineAttente", "MedecineAttente.csproj", "{096D76AE-E791-490D-859A-FC74F97E5211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedecineAttente.Tests", "..\MedecineAttente.Tests\MedecineAttente.Tests.csproj", "{67DA94E0-1928-4C7C-A71E-C47BDA7AAC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096D76AE-E791-490D-859A-FC74F97E5211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096D76AE-E791-490D-859A-FC74F97E5211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096D76AE-E791-490D-859A-FC74F97E5211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096D76AE-E791-490D-859A-FC74F97E5211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DA94E0-1928-4C7C-A71E-C47BDA7AAC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DA94E0-1928-4C7C-A71E-C47BDA7AAC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DA94E0-1928-4C7C-A71E-C47BDA7AAC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DA94E0-1928-4C7C-A71E-C47BDA7AAC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF3C017D-0B5D-4C4D-829B-37E11D8CDFEA}
+	EndGlobalSection
+EndGlobal
